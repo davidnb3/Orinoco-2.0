@@ -6,3 +6,11 @@
 body {
   padding-top: 56px;
 }
+
+.list-image {
+  max-height: 165px;
+}
+
+.total-price {
+  min-width: 100px;
+}
